@@ -103,7 +103,7 @@ end
  
 %  Saving the DTG data and the related temperature and alpha data
 %  IMPORTANT: MENTION THE DIRECTORIES THAT YOU WANT TO SAVE THE GRAPHS ON YOUR COMPUTER 
-
+% save (file location) (The variable) -> Change the file location when run on your computer
 save E:\Research@MSE\Theoritical\Matlab_scripts\MAT_Files\flow_chart_signal_generation\alpha_data.mat alpha_array
 save E:\Research@MSE\Theoritical\Matlab_scripts\MAT_Files\flow_chart_signal_generation\Temperature_data.mat T_array
 save E:\Research@MSE\Theoritical\Matlab_scripts\MAT_Files\flow_chart_signal_generation\DTG_data.mat DTG_matrix
